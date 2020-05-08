@@ -36,7 +36,8 @@ public class OrderActivity extends AppCompatActivity {
         orderPrice = receivedOrderIntent.getDoubleExtra("orderPrice", 0);
         price = receivedOrderIntent.getDoubleExtra("price", 0);
 
-        emailText =  "Покупатель: " + userName + "\n" +
+        emailText =
+                "Покупатель: " + userName + "\n" +
                 "Наименование: " + goodsName + "\n" +
                 "Кол-во: " + quantity + "\n" +
                 "Цена за ед.: " + price + "\n" +
