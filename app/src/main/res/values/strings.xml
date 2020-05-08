@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Pizza Shop</string>
+    <string name="your_name">Ваше имя</string>
+    <string name="discount">-5%</string>
+    <string name="select_item">Выбрать пиццу</string>
+    <string name="order_price">Стоимость заказа</string>
+    <string name="count">Количество</string>
+    <string name="dollar">$</string>
+    <string name="zero">1</string>
+    <string name="minus">-</string>
+    <string name="plus">+</string>
+    <string name="add_to_card">Добавить в корзину</string>
+    <string name="send_order">Отправить заказ</string>
+    <string name="your_order">Ваш Заказ</string>
+</resources>
